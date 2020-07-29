@@ -6,7 +6,7 @@ I'm currently testing this myself - I will create an pull-request at the officia
 https://github.com/nvbn/thefuck
 
 # Usage
-Place all Files of "rules" in *~/.config/thefuck/rules*
+Place all Files of "rules" in ```~/.config/thefuck/rules```
 _____________
 
 # Example:
