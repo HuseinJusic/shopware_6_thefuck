@@ -1,6 +1,6 @@
 # shopware_6_thefuck
 Here are some Rules for the TheFuck-Plugin to correct common mistakes with the Shopware 6 console commands.
-I'm currently testing this myself. If somebody is interested i will maybe create an pull request at the official repo.
+I'm currently testing this myself - I will create an pull-request at the official repo when i'm done.
 
 # TheFuck - Check it out 
 https://github.com/nvbn/thefuck
