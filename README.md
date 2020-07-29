@@ -5,8 +5,8 @@ I'm currently testing this myself - I will create an pull-request at the officia
 # TheFuck - Check it out 
 https://github.com/nvbn/thefuck
 
-# Usage
-Place all Files of "rules" in ```~/.config/thefuck/rules```
+# Install
+Place all Files from "rules" in ```~/.config/thefuck/rules```
 _____________
 
 # Example:
