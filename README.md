@@ -1,5 +1,5 @@
 # shopware_6_thefuck
-Here are some Rules for the TheFuck-Plugin to correct common mistakes with the Shopware 6 console commands
+Here are some Rules for the TheFuck-Plugin to correct common mistakes with the Shopware 6 console commands.
 I'm currently testing this myself. If somebody is interested i will maybe create an pull request at the official repo.
 
 # TheFuck - Check it out 
