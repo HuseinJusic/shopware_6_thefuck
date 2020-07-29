@@ -1,0 +1,4 @@
+setting.py
+__pycache__/settings.cpython-38.pyc
+rules/.shopware_build_storefront.py.swp
+rules/__pycache__/*
