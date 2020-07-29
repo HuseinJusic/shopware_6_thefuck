@@ -8,4 +8,4 @@ https://github.com/nvbn/thefuck
 Place all Files of "rules" in *~/.config/thefuck/rules*
 _____________
 
-# example:
+# Example:
