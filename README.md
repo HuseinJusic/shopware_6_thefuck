@@ -66,6 +66,6 @@ storefront:
 1 script(s) available
 
 test:development user$ fuck
-./psh.phar administration:watch [enter/↑/↓/ctrl+c]
+./psh.phar storefront:build [enter/↑/↓/ctrl+c]
 ...
 ```
